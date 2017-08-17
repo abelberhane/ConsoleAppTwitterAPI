@@ -10,3 +10,15 @@ c:\users\abel\documents\visual studio 2017\Projects\FirstTwitterAPITest\FirstTwi
 c:\users\abel\documents\visual studio 2017\Projects\FirstTwitterAPITest\FirstTwitterAPITest\obj\Debug\FirstTwitterAPITest.csprojResolveAssemblyReference.cache
 c:\users\abel\documents\visual studio 2017\Projects\FirstTwitterAPITest\FirstTwitterAPITest\obj\Debug\FirstTwitterAPITest.exe
 c:\users\abel\documents\visual studio 2017\Projects\FirstTwitterAPITest\FirstTwitterAPITest\obj\Debug\FirstTwitterAPITest.pdb
+C:\Users\Abel\Desktop\ConsoleAppTwitterAPI\FirstTwitterAPITest\bin\Debug\FirstTwitterAPITest.exe.config
+C:\Users\Abel\Desktop\ConsoleAppTwitterAPI\FirstTwitterAPITest\bin\Debug\FirstTwitterAPITest.exe
+C:\Users\Abel\Desktop\ConsoleAppTwitterAPI\FirstTwitterAPITest\bin\Debug\FirstTwitterAPITest.pdb
+C:\Users\Abel\Desktop\ConsoleAppTwitterAPI\FirstTwitterAPITest\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\Abel\Desktop\ConsoleAppTwitterAPI\FirstTwitterAPITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abel\Desktop\ConsoleAppTwitterAPI\FirstTwitterAPITest\bin\Debug\TweetSharp.dll
+C:\Users\Abel\Desktop\ConsoleAppTwitterAPI\FirstTwitterAPITest\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\Abel\Desktop\ConsoleAppTwitterAPI\FirstTwitterAPITest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abel\Desktop\ConsoleAppTwitterAPI\FirstTwitterAPITest\bin\Debug\TweetSharp.pdb
+C:\Users\Abel\Desktop\ConsoleAppTwitterAPI\FirstTwitterAPITest\obj\Debug\FirstTwitterAPITest.csprojResolveAssemblyReference.cache
+C:\Users\Abel\Desktop\ConsoleAppTwitterAPI\FirstTwitterAPITest\obj\Debug\FirstTwitterAPITest.exe
+C:\Users\Abel\Desktop\ConsoleAppTwitterAPI\FirstTwitterAPITest\obj\Debug\FirstTwitterAPITest.pdb
